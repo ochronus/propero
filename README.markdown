@@ -15,4 +15,4 @@ Navigation Timing is a new way to get detailed information about page load times
 
 See the diagram below for measurement points
 
-!http://www.w3.org/TR/navigation-timing/timing-overview.png!
+!(http://www.w3.org/TR/navigation-timing/timing-overview.png)
