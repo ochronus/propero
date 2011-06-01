@@ -17,6 +17,9 @@ See the diagram below for measurement points
 
 ![Navigation Timing measurement points](http://www.w3.org/TR/navigation-timing/timing-overview.png)
 
+Currently this window property is known to work in latest Chrome and IE9.
+
+
 What you need to install
 -------
 
@@ -45,3 +48,12 @@ The logger will then log the current timestamp, the url and the timing data to m
 
 
 { "_id" : ObjectId("4de630c28809b5567f000000"), "timing" : { "connectStart" : 1261333531, "responseStart" : 1261333614, "domLoading" : 1261333622, "connectEnd" : 1261333531, "domInteractive" : 1261336002, "fetchStart" : 1261333531, "secureConnectionStart" : 0, "domainLookupStart" : 1261333531, "responseEnd" : 1261333660, "requestStart" : 1261333533, "loadEventEnd" : 1261336280, "domComplete" : 1261336272, "redirectStart" : 0, "unloadEventEnd" : 1261333620, "domContentLoadedEventStart" : 1261336002, "domContentLoadedEventEnd" : 1261336008, "domainLookupEnd" : 1261333531, "navigationStart" : 1261333531, "unloadEventStart" : 1261333615, "loadEventStart" : 1261336272, "redirectEnd" : 0 }, "time" : 1306931394, "url" : "http://piwik.mostof.it/test.html" }
+
+TODO
+-------
+
+Erm... everything? :)
+
+Support for multiple domains (stats / domain instead of one big pool of logs)
+Stat screen(s), currently data is in mongodb only, there's no monitoring/stat screen yet
+
