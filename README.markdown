@@ -54,6 +54,6 @@ TODO
 
 Erm... everything? :)
 
-Support for multiple domains (stats / domain instead of one big pool of logs)
-Stat screen(s), currently data is in mongodb only, there's no monitoring/stat screen yet
+* Support for multiple domains (stats / domain instead of one big pool of logs)
+* Stat screen(s), currently data is in mongodb only, there's no monitoring/stat screen yet
 
