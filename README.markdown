@@ -35,7 +35,7 @@ What next
 * Clone this repo to a directory on your webserver, accessible by HTTP from the outside world
 * modify propero_config.php 
 * run generator.php to generate propero.js (produces a minified JS code)
-* insert measurement script tag (generator.php echoes this to the console) to sites right before </body>
+* insert measurement script tag (generator.php echoes this to the console) to sites right before &lt;/body&gt;
 
 bonus:
 
