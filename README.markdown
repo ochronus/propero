@@ -1,8 +1,7 @@
 Propero
 =============
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
-    ![Propero](http://blog.mostof.it/wp-content/uploads/measure-150x150.jpg)
-</div>
+<div style="float:left;margin:0 10px 10px 0;"><img src="http://blog.mostof.it/wp-content/uploads/measure-150x150.jpg"></div>
+
 Simply put Propero is a javascript, php and mongodb based page load measurement system based on the new Navigation Timing property
 
 What exactly is this 'Navigation Timing' thing?
